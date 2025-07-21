@@ -7,7 +7,7 @@ Sales Analysis of a fictional company to optimize discount strategies.
 
 ## Tableau Dashboard
 
-The Tableau Dashboard can be found here: https://public.tableau.com/app/profile/dido.de.boodt/viz/UnicornProjectDashboard_17390504569950/DashboardProjectUnicorn
+The Tableau Dashboard can be found [here](https://public.tableau.com/app/profile/dido.de.boodt/viz/UnicornProjectDashboard_17390504569950/DashboardProjectUnicorn).
 
 - Designed and developed an interactive Tableau dashboard to analyze key business metrics, including sales, profit, and discount impact.
 - Leveraged calculated fields, filters, parameters, and dynamic visualizations to highlight trends, outliers, and geographical insights.
