@@ -4,7 +4,7 @@
 
 ---
 
-Sales analysis of a fictional company to optimize discount strategies.
+Sales analysis of a fictional company to optimize discount strategies. This project was created as a school group project for *Masterschool*.
 
 - Explored and cleaned the dataset with **Google Sheets** and **SQL**.
 - Designed a dashboard with **Tableau** to highlight the KPIs. 
